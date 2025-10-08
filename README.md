@@ -55,5 +55,4 @@ The model successfully predicted several test images correctly,
 
 
 
-Through this project, we successfully built and trained a Convolutional Neural Network (CNN) for image classification. The model demonstrated strong performance on both training and validation data, and it was able to correctly predict unseen test images.
 Overall, this project provided hands-on experience in deep learning, covering the complete pipeline — from data preprocessing and model building to evaluation and real-world testing using OpenCV.
